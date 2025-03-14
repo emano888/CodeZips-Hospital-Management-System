@@ -37,7 +37,7 @@
 + During a security assessment of the “Hospital Management System (PHP & MySQL) with Source Code,” a critical SQL injection vulnerability was identified in the /suadpeted.php file by Emano888. The vulnerability stems from inadequate validation of the id parameter, enabling attackers to inject malicious SQL statements. This flaw allows unauthorized database access, manipulation or deletion of data, and exposure of sensitive information. Immediate remediation is necessary to safeguard system integrity and data confidentiality.
 
 # 6. Exploitation
-+ No authentication or authorization is required to exploit this vulnerability.
++ Login is required to exploit the vulnerability.
 
 # 7. Vulnerability Details and Proof of Concept (PoC)
 
