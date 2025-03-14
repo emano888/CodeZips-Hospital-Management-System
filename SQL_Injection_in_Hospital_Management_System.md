@@ -73,9 +73,8 @@ BasicAdmin Password = 123
 
 
 **Screenshots from sqlmap Execution:**
-+ <img width="1683" alt="image" src="[https://github.com/emano888/CodeZips-Hospital-Management-System/blob/main/poc1.png
-]" />
-https://github.com/emano888/CodeZips-Hospital-Management-System/blob/main/poc1.png
+![poc1](https://github.com/user-attachments/assets/ccbb882e-bf48-424e-b667-6d1eeba17405)
+
 # 8. Recommendations for Remediation
 **1.Use Prepared Statements and Parameterized Queries:**
 + Implementing prepared statements ensures that SQL queries are separated from user inputs, preventing malicious code execution.
