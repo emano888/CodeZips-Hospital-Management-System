@@ -66,6 +66,7 @@ python3 sqlmap.py -u "http://localhost/hospital-management-system-php-master/sua
 ## Login is required to exploit the vulnerability
 
 Credential:
+
 superAdmin Password = 123
 
 BasicAdmin Password = 123
