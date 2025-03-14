@@ -67,6 +67,7 @@ python3 sqlmap.py -u "http://localhost/hospital-management-system-php-master/sua
 
 Credential:
 superAdmin Password = 123
+
 BasicAdmin Password = 123
 
 
